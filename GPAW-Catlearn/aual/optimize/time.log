@@ -1,0 +1,300 @@
+lbfgs =   2589.4867110028863
+lbfgs =   2589.485962294042
+lbfgs =   2589.4905065800995
+lbfgs =   2589.490510166157
+lbfgs =   2589.484929231927
+lbfgs =   2589.4860308025964
+lbfgs =   2589.4904640838504
+lbfgs =   2589.4848600788973
+lbfgs =   2589.4866066337563
+lbfgs =   2589.4799820119515
+fires =   3007.386247444898
+fires =   3007.3853206313215
+fires =   3007.389637693763
+fires =   3007.373687731102
+fires =   3007.388380025979
+fires =   3007.3919549160637
+fires =   3007.3935842351057
+fires =   3007.3781075398438
+fires =   3007.3908354546875
+fires =   3007.370685645379
+lbfgs =   1523.568000961037
+lbfgs =   1523.569203837018
+lbfgs =   1523.5691798219923
+lbfgs =   1523.5691063600243
+lbfgs =   1523.5685607080231
+lbfgs =   1523.5691431620508
+lbfgs =   1523.5682527740137
+lbfgs =   1523.5691450680606
+lbfgs =   1523.5693593699834
+lbfgs =   1523.5613255670178
+fires =   2013.2486955919303
+fires =   2013.2518132079858
+fires =   2013.2466054739198
+fires =   2013.250674615032
+fires =   2013.2623718960676
+fires =   2013.2530074460665
+fires =   2013.2480122839333
+fires =   2013.2461566010024
+fires =   2013.2456038809614
+fires =   2013.2389426470036
+mlmin =   112.49659217300359
+mlmin =   112.49664025194943
+mlmin =   112.49664955795743
+mlmin =   112.49736628797837
+mlmin =   112.49772948899772
+mlmin =   112.49962728098035
+mlmin =   112.50117205199786
+mlmin =   112.5017627250636
+mlmin =   112.50215571396984
+mlmin =   112.51031580299605
+mlmin =   251.71526812494267
+mlmin =   251.7152759609744
+mlmin =   251.71530581999104
+mlmin =   251.71534951997455
+mlmin =   251.71562247199472
+mlmin =   251.71965216298122
+mlmin =   251.71858980797697
+mlmin =   251.71874287899118
+mlmin =   251.7194452820113
+mlmin =   251.72605943703093
+mlmin =   390.66579202003777
+mlmin =   390.6658393149264
+mlmin =   390.6658078719629
+mlmin =   390.6658506079111
+mlmin =   390.66617898806
+mlmin =   390.67035270796623
+mlmin =   390.6703684979584
+mlmin =   390.67049556504935
+mlmin =   390.67074463388417
+mlmin =   390.67859538202174
+mlmin =   503.26896319689695
+mlmin =   503.2690212179441
+mlmin =   503.26866751594935
+mlmin =   503.26912581990473
+mlmin =   503.2694947110722
+mlmin =   503.27840429195203
+mlmin =   503.2785310239997
+mlmin =   503.27884662989527
+mlmin =   503.27920076902956
+mlmin =   503.28731225500815
+mlmin =   575.7714980299352
+mlmin =   575.7715465920046
+mlmin =   575.7715669550234
+mlmin =   575.7719705550699
+mlmin =   575.7720521509182
+mlmin =   575.7721068009268
+mlmin =   575.7723078839481
+mlmin =   575.7732666028896
+mlmin =   575.7736716039944
+mlmin =   575.779719599057
+mlmin =   641.7512308729347
+mlmin =   641.7512227520347
+mlmin =   641.7512559209717
+mlmin =   641.7512756689684
+mlmin =   641.7512986699585
+mlmin =   641.7515781300608
+mlmin =   641.7516211400507
+mlmin =   641.751987947966
+mlmin =   641.7521680640057
+mlmin =   641.759013148956
+mlmin =   707.7420722329989
+mlmin =   707.742099136929
+mlmin =   707.7421569749713
+mlmin =   707.7421129009454
+mlmin =   707.7424772180384
+mlmin =   707.7465013680048
+mlmin =   707.7425623469753
+mlmin =   707.7437044619583
+mlmin =   707.7447060759878
+mlmin =   707.7457791150082
+mlmin =   707.7467558190692
+mlmin =   707.7469716960331
+mlmin =   707.7470929489937
+mlmin =   707.7477143019205
+mlmin =   707.7537563099759
+mlmin =   707.7548111489741
+mlmin =   707.7551046309527
+mlmin =   707.7592227510177
+mlmin =   707.7645317870192
+mlmin =   707.7660470569972
+Number of function evaluations using FIRE:             30
+Number of function evaluations using FIRE:             30
+Number of function evaluations using FIRE:             30
+Number of function evaluations using FIRE:             30
+Number of function evaluations using FIRE:             30
+Number of function evaluations using FIRE:             30
+Number of function evaluations using FIRE:             30
+Number of function evaluations using FIRE:             30
+Number of function evaluations using FIRE:             30
+Number of function evaluations using FIRE:             30
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using LBFGS:            17
+Number of function evaluations using MLMin (CatLearn): 8
+Number of function evaluations using MLMin (CatLearn): 8
+Number of function evaluations using MLMin (CatLearn): 8
+Number of function evaluations using MLMin (CatLearn): 8
+Number of function evaluations using MLMin (CatLearn): 8
+Number of function evaluations using MLMin (CatLearn): 8
+Number of function evaluations using MLMin (CatLearn): 8
+Number of function evaluations using MLMin (CatLearn): 8
+Number of function evaluations using MLMin (CatLearn): 8
+Number of function evaluations using MLMin (CatLearn): 8
+lbfgs =   2516.555446550017
+lbfgs =   2516.5556109499885
+lbfgs =   2516.5502990150126
+lbfgs =   2516.550633804989
+lbfgs =   2516.5595663939603
+lbfgs =   2516.553960604011
+lbfgs =   2516.5540809500962
+lbfgs =   2516.5583407550585
+lbfgs =   2516.5583441490307
+lbfgs =   2516.558171645971
+fires =   2670.2003202519845
+fires =   2670.194217915996
+fires =   2670.1922111139866
+fires =   2670.199339286075
+fires =   2670.19816941896
+fires =   2670.1951053629164
+fires =   2670.1932416239288
+fires =   2670.196657840046
+fires =   2670.19729504711
+fires =   2670.19000626693
+mlmin =   163.7838089070283
+mlmin =   163.78383559698705
+mlmin =   163.78410198690835
+mlmin =   163.78387656609993
+mlmin =   163.78388424299192
+mlmin =   163.78390251891688
+mlmin =   163.78397591703106
+mlmin =   163.78423293493688
+mlmin =   163.7864890579367
+mlmin =   163.7952906989958
+mlmin =   345.208829304087
+mlmin =   345.2088098300155
+mlmin =   345.2089731079759
+mlmin =   345.20897781290114
+mlmin =   345.2090128059499
+mlmin =   345.20903997390997
+mlmin =   345.208872052026
+mlmin =   345.20928366400767
+mlmin =   345.20994284399785
+mlmin =   345.2165580330184
+mlmin =   535.4356175879948
+mlmin =   535.4356028519105
+mlmin =   535.4355274219997
+mlmin =   535.4357359029818
+mlmin =   535.4355311261024
+mlmin =   535.4355794719886
+mlmin =   535.4359715139726
+mlmin =   535.4356120999437
+mlmin =   535.4356488139601
+mlmin =   535.4483763939934
+mlmin =   745.5983984300401
+mlmin =   745.598615202005
+mlmin =   745.5984056070447
+mlmin =   745.5984101549257
+mlmin =   745.5987251189072
+mlmin =   745.5985350939445
+mlmin =   745.5984652850311
+mlmin =   745.5984389539808
+mlmin =   745.5988313289126
+mlmin =   745.6062782900408
+mlmin =   936.5695129190572
+mlmin =   936.5695149020758
+mlmin =   936.5695581289474
+mlmin =   936.5695847010938
+mlmin =   936.5696398959262
+mlmin =   936.5697239119327
+mlmin =   936.5698981619207
+mlmin =   936.5727002220228
+mlmin =   936.572857565945
+mlmin =   936.5776844320353
+mlmin =   1119.066897014971
+mlmin =   1119.0669608189492
+mlmin =   1119.0669098489452
+mlmin =   1119.0669744689949
+mlmin =   1119.0669663390145
+mlmin =   1119.06719216099
+mlmin =   1119.0669762919424
+mlmin =   1119.0670336680487
+mlmin =   1119.0673755399184
+mlmin =   1119.0749067979632
+mlmin =   1255.852840983891
+mlmin =   1255.8528605480678
+mlmin =   1255.8528194809332
+mlmin =   1255.8530080720084
+mlmin =   1255.8527774439426
+mlmin =   1255.8531780689955
+mlmin =   1255.852777356049
+mlmin =   1255.8529317819048
+mlmin =   1255.8528611009242
+mlmin =   1255.864531193045
+mlmin =   1383.0705419580918
+mlmin =   1383.0707662459463
+mlmin =   1383.0705557989422
+mlmin =   1383.0705459730234
+mlmin =   1383.0706124610733
+mlmin =   1383.0709101819666
+mlmin =   1383.0715241609141
+mlmin =   1383.0715754749253
+mlmin =   1383.0715810409747
+mlmin =   1383.0784674630268
+mlmin =   1427.4475886860164
+mlmin =   1427.4475954610389
+mlmin =   1427.447673244984
+mlmin =   1427.44770998694
+mlmin =   1427.4476991299307
+mlmin =   1427.4480314279208
+mlmin =   1427.4477113930043
+mlmin =   1427.447813942912
+mlmin =   1427.448012606008
+mlmin =   1427.449176897062
+mlmin =   1427.4503107760102
+mlmin =   1427.4511925380211
+mlmin =   1427.4521525809541
+mlmin =   1427.4541373190004
+mlmin =   1427.4550941429334
+mlmin =   1427.4552249389235
+mlmin =   1427.4561436859658
+mlmin =   1427.462692250032
+mlmin =   1427.4636106860125
+mlmin =   1427.4655829769326
+Number of function evaluations using FIRE:             31
+Number of function evaluations using FIRE:             31
+Number of function evaluations using FIRE:             31
+Number of function evaluations using FIRE:             31
+Number of function evaluations using FIRE:             31
+Number of function evaluations using FIRE:             31
+Number of function evaluations using FIRE:             31
+Number of function evaluations using FIRE:             31
+Number of function evaluations using FIRE:             31
+Number of function evaluations using FIRE:             31
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using LBFGS:            22
+Number of function evaluations using MLMin (CatLearn): 10
+Number of function evaluations using MLMin (CatLearn): 10
+Number of function evaluations using MLMin (CatLearn): 10
+Number of function evaluations using MLMin (CatLearn): 10
+Number of function evaluations using MLMin (CatLearn): 10
+Number of function evaluations using MLMin (CatLearn): 10
+Number of function evaluations using MLMin (CatLearn): 10
+Number of function evaluations using MLMin (CatLearn): 10
+Number of function evaluations using MLMin (CatLearn): 10
+Number of function evaluations using MLMin (CatLearn): 10

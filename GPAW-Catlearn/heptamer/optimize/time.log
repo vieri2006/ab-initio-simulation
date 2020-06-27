@@ -1,0 +1,320 @@
+lbfgs =   18342.74068795296
+lbfgs =   18342.85708439001
+lbfgs =   18342.85758930107
+lbfgs =   18342.856695618946
+lbfgs =   18343.00537852093
+lbfgs =   18343.037895968067
+lbfgs =   18343.039002743084
+lbfgs =   18343.039089956903
+lbfgs =   18343.102290702984
+lbfgs =   18343.102351412992
+fires =   11809.842159037944
+fires =   11809.84311168408
+fires =   11809.940073315054
+fires =   11810.205771989073
+fires =   11810.088372618891
+fires =   11810.07821931399
+fires =   11810.086941251997
+fires =   11809.971549523994
+fires =   11810.122166833025
+fires =   11810.121799504966
+mlmin =   576.7795735879336
+mlmin =   576.7972845659824
+mlmin =   576.797202766058
+mlmin =   576.7972366691101
+mlmin =   576.7973897519987
+mlmin =   576.797468533041
+mlmin =   576.7974978749407
+mlmin =   576.7800466659246
+mlmin =   576.7976113889599
+mlmin =   576.80835639406
+mlmin =   1153.0599375129677
+mlmin =   1153.194765549968
+mlmin =   1153.2602559720399
+mlmin =   1153.2851253070403
+mlmin =   1153.3561793810222
+mlmin =   1153.3567837579176
+mlmin =   1153.3971698320238
+mlmin =   1153.3975232959492
+mlmin =   1153.4301345370477
+mlmin =   1153.4304323209217
+mlmin =   1693.1803679571021
+mlmin =   1693.1628473410383
+mlmin =   1693.1805679729441
+mlmin =   1693.1804532629903
+mlmin =   1693.180486825062
+mlmin =   1693.163002525922
+mlmin =   1693.1804920209106
+mlmin =   1693.1805215229979
+mlmin =   1693.1808395369444
+mlmin =   1693.1889670470264
+mlmin =   2163.881486559985
+mlmin =   2163.881248716032
+mlmin =   2163.898862148053
+mlmin =   2163.906293579028
+mlmin =   2163.9076015721075
+mlmin =   2163.908107513911
+mlmin =   2163.9439820359694
+mlmin =   2163.9476396209793
+mlmin =   2163.947642289917
+mlmin =   2163.956253618002
+mlmin =   2669.1048380440334
+mlmin =   2669.1048629620345
+mlmin =   2669.1051034639822
+mlmin =   2669.1182296189945
+mlmin =   2669.11862961296
+mlmin =   2669.1192988990806
+mlmin =   2669.1193374159047
+mlmin =   2669.114598606946
+mlmin =   2669.114636539016
+mlmin =   2669.141617964022
+mlmin =   3143.5194190969924
+mlmin =   3143.519338358077
+mlmin =   3143.51916947891
+mlmin =   3143.5191914810566
+mlmin =   3143.519406848005
+mlmin =   3143.5192740979837
+mlmin =   3143.519215633045
+mlmin =   3143.5359133878956
+mlmin =   3143.536215979955
+mlmin =   3143.5648378529586
+mlmin =   3544.2026610280154
+mlmin =   3544.202593486989
+mlmin =   3544.2035628029844
+mlmin =   3544.297912767972
+mlmin =   3544.3898934150347
+mlmin =   3544.3901580700185
+mlmin =   3544.3902686259244
+mlmin =   3544.3902465000283
+mlmin =   3544.4057438289747
+mlmin =   3544.40613729693
+mlmin =   3741.829590059002
+mlmin =   3741.82959073002
+mlmin =   3741.8299394269707
+mlmin =   3741.829670600011
+mlmin =   3741.8296375940554
+mlmin =   3741.8296959920553
+mlmin =   3741.8297080369666
+mlmin =   3741.8302098370623
+mlmin =   3741.8314302259823
+mlmin =   3741.832480844925
+mlmin =   3741.8334288808983
+mlmin =   3741.834467675886
+mlmin =   3741.835352379014
+mlmin =   3741.8362862740178
+mlmin =   3741.8348824019777
+mlmin =   3741.834848643979
+mlmin =   3741.8363199919695
+mlmin =   3741.8375441509997
+mlmin =   3741.8634276440134
+mlmin =   3741.8647874400485
+Number of function evaluations using FIRE:             37
+Number of function evaluations using FIRE:             37
+Number of function evaluations using FIRE:             37
+Number of function evaluations using FIRE:             37
+Number of function evaluations using FIRE:             37
+Number of function evaluations using FIRE:             37
+Number of function evaluations using FIRE:             37
+Number of function evaluations using FIRE:             37
+Number of function evaluations using FIRE:             37
+Number of function evaluations using FIRE:             37
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using LBFGS:            58
+Number of function evaluations using MLMin (CatLearn): 9
+Number of function evaluations using MLMin (CatLearn): 9
+Number of function evaluations using MLMin (CatLearn): 9
+Number of function evaluations using MLMin (CatLearn): 9
+Number of function evaluations using MLMin (CatLearn): 9
+Number of function evaluations using MLMin (CatLearn): 9
+Number of function evaluations using MLMin (CatLearn): 9
+Number of function evaluations using MLMin (CatLearn): 9
+Number of function evaluations using MLMin (CatLearn): 9
+Number of function evaluations using MLMin (CatLearn): 9
+lbfgs =   16214.03293639794
+lbfgs =   16214.033317856956
+lbfgs =   16214.033065572963
+lbfgs =   16214.033569904976
+lbfgs =   16214.033060873975
+lbfgs =   16214.03318493592
+lbfgs =   16214.033063816954
+lbfgs =   16214.033092331956
+lbfgs =   16214.033306468977
+lbfgs =   16214.031016055029
+fires =   10954.094356697984
+fires =   10954.087668933906
+fires =   10954.088858371018
+fires =   10954.092327633989
+fires =   10954.101062326925
+fires =   10954.096770135919
+fires =   10954.107874309993
+fires =   10954.116049318924
+fires =   10954.109534534975
+fires =   10954.100343154045
+mlmin =   395.03465533198323
+mlmin =   395.03364535898436
+mlmin =   395.0334300240502
+mlmin =   395.03340494900476
+mlmin =   395.0334530189866
+mlmin =   395.03339422796853
+mlmin =   395.03465983003844
+mlmin =   395.0334775330266
+mlmin =   395.0333922919817
+mlmin =   395.04607883596327
+mlmin =   789.0240839329781
+mlmin =   789.0241060740082
+mlmin =   789.0241496660747
+mlmin =   789.0241880350513
+mlmin =   789.0241778750205
+mlmin =   789.0242670270381
+mlmin =   789.0245103660272
+mlmin =   789.0275123539614
+mlmin =   789.0277470439905
+mlmin =   789.03339236998
+mlmin =   1183.4848768940428
+mlmin =   1183.4848342250334
+mlmin =   1183.4849972389638
+mlmin =   1183.4852786120027
+mlmin =   1183.4848640960408
+mlmin =   1183.4847875899868
+mlmin =   1183.4848740930902
+mlmin =   1183.484892141074
+mlmin =   1183.484785689041
+mlmin =   1183.5037312520435
+mlmin =   1511.0118004359538
+mlmin =   1511.0118536670925
+mlmin =   1511.0119915530086
+mlmin =   1511.0185566800646
+mlmin =   1511.0186347310664
+mlmin =   1511.0227482840419
+mlmin =   1511.025529201026
+mlmin =   1511.0255526630208
+mlmin =   1511.0266226870008
+mlmin =   1511.0266244880622
+mlmin =   1839.7497494879644
+mlmin =   1839.7499154440593
+mlmin =   1839.749810610083
+mlmin =   1839.7502724609803
+mlmin =   1839.7498780470341
+mlmin =   1839.7497513029957
+mlmin =   1839.7499591249507
+mlmin =   1839.7497716679936
+mlmin =   1839.7498576610815
+mlmin =   1839.7709227179876
+mlmin =   2144.8755862700054
+mlmin =   2144.875819709967
+mlmin =   2144.875588407973
+mlmin =   2144.8756751529872
+mlmin =   2144.8757043030346
+mlmin =   2144.8755857340293
+mlmin =   2144.8757499860367
+mlmin =   2144.875714579015
+mlmin =   2144.8760831559775
+mlmin =   2144.8838955870597
+mlmin =   2405.7223010910675
+mlmin =   2405.7222835220164
+mlmin =   2405.7235988579923
+mlmin =   2405.724557272042
+mlmin =   2405.724628570024
+mlmin =   2405.727542593959
+mlmin =   2405.72758783109
+mlmin =   2405.72766231501
+mlmin =   2405.7280040460173
+mlmin =   2405.7337449219776
+mlmin =   2779.33878368407
+mlmin =   2779.3388466790784
+mlmin =   2779.3387650059303
+mlmin =   2779.33886741905
+mlmin =   2779.339230158017
+mlmin =   2779.3388579620514
+mlmin =   2779.367934304988
+mlmin =   2779.3697381500388
+mlmin =   2779.3698546780506
+mlmin =   2779.377380614984
+mlmin =   3174.129669663962
+mlmin =   3174.1298467899906
+mlmin =   3174.1297670430504
+mlmin =   3174.1408994520316
+mlmin =   3174.140901759034
+mlmin =   3174.141671560006
+mlmin =   3174.1482134649996
+mlmin =   3174.1482610719977
+mlmin =   3174.149351320928
+mlmin =   3174.1493613780476
+mlmin =   3546.775164462044
+mlmin =   3546.7752385879867
+mlmin =   3546.7757405469893
+mlmin =   3546.7756948940223
+mlmin =   3546.7756139199482
+mlmin =   3546.7752064060187
+mlmin =   3546.7759554550285
+mlmin =   3546.7751347289886
+mlmin =   3546.775238086004
+mlmin =   3546.7868001760216
+mlmin =   3808.445416804985
+mlmin =   3808.4455014050473
+mlmin =   3808.4455307010794
+mlmin =   3808.4455825260375
+mlmin =   3808.4456099639647
+mlmin =   3808.445911581046
+mlmin =   3808.4481688430533
+mlmin =   3808.449230439961
+mlmin =   3808.4492688860046
+mlmin =   3808.453751430032
+mlmin =   3980.911735006026
+mlmin =   3980.9117609780515
+mlmin =   3980.9118301629787
+mlmin =   3980.9118732080096
+mlmin =   3980.9118623400573
+mlmin =   3980.9122494970215
+mlmin =   3980.912319732015
+mlmin =   3980.913419589051
+mlmin =   3980.914392968989
+mlmin =   3980.9153639869764
+mlmin =   3980.91637946805
+mlmin =   3980.922873766045
+mlmin =   3980.9173543360084
+mlmin =   3980.9219139090274
+mlmin =   3980.922784606926
+mlmin =   3980.924113221001
+mlmin =   3980.926352640963
+mlmin =   3980.927316235029
+mlmin =   3980.930258978042
+mlmin =   3980.9315229450585
+Number of function evaluations using FIRE:             51
+Number of function evaluations using FIRE:             51
+Number of function evaluations using FIRE:             51
+Number of function evaluations using FIRE:             51
+Number of function evaluations using FIRE:             51
+Number of function evaluations using FIRE:             51
+Number of function evaluations using FIRE:             51
+Number of function evaluations using FIRE:             51
+Number of function evaluations using FIRE:             51
+Number of function evaluations using FIRE:             51
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using LBFGS:            47
+Number of function evaluations using MLMin (CatLearn): 13
+Number of function evaluations using MLMin (CatLearn): 13
+Number of function evaluations using MLMin (CatLearn): 13
+Number of function evaluations using MLMin (CatLearn): 13
+Number of function evaluations using MLMin (CatLearn): 13
+Number of function evaluations using MLMin (CatLearn): 13
+Number of function evaluations using MLMin (CatLearn): 13
+Number of function evaluations using MLMin (CatLearn): 13
+Number of function evaluations using MLMin (CatLearn): 13
+Number of function evaluations using MLMin (CatLearn): 13
